@@ -3,7 +3,7 @@ title: R Curriculum @ UC Merced
 author: Andrea Sánchez-Tapia
 date: '2020-08-14'
 categories:
-  - courses
+  - course
   - english
 show_post_date: true
 links:

@@ -5,7 +5,6 @@ date: '2020-09-30'
 slug: latinR
 categories:
   - ¡liibre!
-  - course
   - português
   - workshop
 tags: []
