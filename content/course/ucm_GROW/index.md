@@ -16,4 +16,4 @@ links:
   url: https://github.com/AndreaSanchezTapia/GROW_Merced_2020
 ---
 
-This was a 3-hour R module based on the [R Ecology Lesson](https://datacarpentry.org/lessons/#ecology-workshop) from The Carpentries, as a part of a 9-hr workshop at the GROW - Graduate Week at UC Merced
+This was a 3-hour R module based on the [R Ecology Lesson](https://datacarpentry.org/lessons/#ecology-workshop) from The Carpentries, as a part of a 9-hr workshop at the Graduate Orientation Week (GROW) at UC Merced
