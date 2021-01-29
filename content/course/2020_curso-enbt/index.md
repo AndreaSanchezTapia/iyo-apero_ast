@@ -2,7 +2,7 @@
 title: Projetos de Análise de Dados usando R
 author: Andrea Sánchez-Tapia, Sara R. Mortara
 date: 2020-02-10
-slug: curso_enbt
+slug: 2020_curso_enbt
 tags:
 categories:
   - jbrj

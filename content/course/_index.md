@@ -1,5 +1,5 @@
 ---
-title: Talks and events
+title: Courses and workshops
 description: ""
 author: ""
 show_post_thumbnail: true
@@ -11,14 +11,14 @@ layout: list # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Talks
-  description: What is a talk during a pandemic anyway?
-  author: ""
+  title: Courses
+  description: ""
+  author: "Andrea Sánchez-Tapia"
   text_link_label: Subscribe via RSS
-  text_link_url: /talk/index.xml
+  text_link_url: /course/index.xml
   show_sidebar_adunit: true # show ad container
 
-# set up common front matter for all pages inside blog/
+# set up common front matter for all pages inside course/
 cascade:
   author: "Andrea Sánchez-Tapia"
   show_author_byline: true
@@ -27,8 +27,8 @@ cascade:
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout
   sidebar:
-    text_link_label: View recent talks
-    text_link_url: /talk/
+    text_link_label: View recent courses
+    text_link_url: /course/
     show_sidebar_adunit: false # show ad container
 ---
 
