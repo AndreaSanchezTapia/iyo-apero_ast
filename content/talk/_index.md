@@ -1,12 +1,11 @@
 ---
 title: Talks and events
-description: |
-  What is a talk during a pandemic anyway? 
+description: ""
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
-show_post_time: true
+show_post_time: false
 # for listing page layout
 layout: list # list, list-sidebar
 

@@ -1,19 +1,22 @@
 social:
 - icon: twitter
   icon_pack: fab
+  title: twitter
   link: https://twitter.com/SanchezTapiaA
 - icon: github
   icon_pack: fab
+  title: GitHub
   link: https://github.com/andreasancheztapia
 - icon: gitlab
   icon_pack: fab
+  description: gitlab
   link: https://gitlab.com/andreasancheztapia
+- icon: address-card
+  icon_pack: fas
+  link: http://lattes.cnpq.br/8900415459588165
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Andrea_Sanchez-Tapia
-- icon: spotify
-  icon_pack: fab
-  link: https://open.spotify.com/user/katori-83
 - icon: rss
   icon_pack: fas
   link: /blog/index.xml

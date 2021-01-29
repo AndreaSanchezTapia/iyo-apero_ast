@@ -1,19 +1,20 @@
 ---
 title: Como começar a usar o R
-author: ¡liibre!
+author: Andrea Sánchez-Tapia, Sara R. Mortara
 date: '2020-11-14'
-event: Instituto HUB
+event: Raspagem e Análise de Dados Públicos - Instituto HUB
 categories:
-  - courses
   - ¡liibre!
+  - português
+  - workshop
 show_post_date: true
 links:
 - icon: tv
-  icon_pack: fas
+  icon_pack: fa
   name: Slides
   url: https://liibre.github.io/instituto_hub/#1
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   name: Code
   url: https://github.com/liibre/instituto_hub_demo
 - icon: play
