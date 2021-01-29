@@ -1,22 +1,22 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Andrea Sánchez-Tapia"
+role: "PNPD/CAPES Postdoc @ Rio de Janeiro Botanical Garden "
 avatar: avatar.jpg
-avatar_shape: rounded # circle, square, rounded
+avatar_shape: circle # circle, square, rounded
 show_social: true
-show_audio_link: true
+show_audio_link: false
 audio_link: 
 - name: How to say my name
   url: audio.m4a
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: "I also belong to" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: ¡liibre!
+  url: https://github.com/liibre
+- name: Observatório COVID-19BR
+  url: https://covid19br.github.io/
+- name: RLadies+ Rio de Janeiro
+  url: https://github.com/rladies-rio
 ---
 
 ** index doesn't contain a body, just front matter above.

@@ -1,19 +1,19 @@
 social:
-- icon: facebook-square
-  icon_pack: fab
-  link: https://twitter.com/apreshill
-- icon: instagram
-  icon_pack: fab
-  link: https://twitter.com/apreshill
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/apreshill
+  link: https://twitter.com/SanchezTapiaA
 - icon: github
   icon_pack: fab
-  link: https://github.com/apreshill
-- icon: linkedin
+  link: https://github.com/andreasancheztapia
+- icon: gitlab
   icon_pack: fab
-  link: https://www.linkedin.com/in/alisonpresmaneshill/
+  link: https://gitlab.com/andreasancheztapia
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Andrea_Sanchez-Tapia
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/user/katori-83
 - icon: rss
   icon_pack: fas
   link: /blog/index.xml

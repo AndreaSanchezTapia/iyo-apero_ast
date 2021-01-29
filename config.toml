@@ -1,11 +1,11 @@
-baseURL = "/"
+baseURL = "https://andreasancheztapia.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
+title = ""
+author = "Theme Hugo Apéro by Alison Hill @RStudio"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "andreasancheztapia"
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your prefered number based on the blog layout you've chosen
@@ -28,20 +28,20 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgName = ""
+  orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   # select sections to highlight on about page
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["project", "blog", "talk"]
   show_social_links = true
-  navallcaps = true
+  navallcaps = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "SanchezTapiaA"
   
   # basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
@@ -50,13 +50,13 @@ enableEmoji = true
   # alternatively, use a built-in font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
-  customtextFontFamily = "Commissioner"
+  customtextFontFamily = "Metropolis"
   customheadingFontFamily = "Fraunces"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "sky"
+  theme = "forest"
   
   # or, leave theme empty & make your own palette
   # basic color options: use only color names as shown in the
@@ -90,31 +90,27 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
+    weight = 3
+  [[menu.header]]
+    name = "Courses"
+    title = "Courses"
+    url = "/course/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
     weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+  
