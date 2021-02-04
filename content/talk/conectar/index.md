@@ -15,8 +15,8 @@ layout: single
 categories:
 - meeting
 - talk
-- upcoming
 - español
+- obscovid19br
 links:
 - icon: tv
   icon_pack: fa
