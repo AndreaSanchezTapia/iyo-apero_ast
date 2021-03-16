@@ -9,6 +9,6 @@ headline: |
 <!--if show_title_as_headline: false it will display About-->
 
 <!-- this is a subheadline -->
-I am a Colombian biologist (she/her). I work as a PNPD/CAPES post-doctoral fellow at the Scientific Computation Lab at the Rio de Janeiro Botanical Garden. My main interests are Biodiversity Informatics and Community Ecology.
+I am a Colombian biologist (she/her), I lived in Brazil and I currently live in the USA. My main interests are Biodiversity Informatics, Plant Ecology, and Data Feminism. 
 
-Since I am Colombian but work in Brazil and currently live in the USA, different categories will indicate if the content is in [English](/categories/english/), [Español](/categories/español/) or [Português](/categories/português/) (most of it). 
+Here, different categories will indicate if the content is in [English](/categories/english/), [Spanish](/categories/español/) or [Portuguese](/categories/português/). 

@@ -39,7 +39,7 @@ enableEmoji = true
   navallcaps = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/sidebar-listing.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "SanchezTapiaA"
   
@@ -65,7 +65,7 @@ enableEmoji = true
   sidebarBgColor = "light-gray"
   headlineColor = "dark-pink"
   headingColor = "near-black"
-  textColor = "dark-gray"
+  textColor = "red"
   sidebarTextColor = "mid-gray"
   bodyLinkColor = "blue"
   navLinkColor = "near-black"
@@ -95,19 +95,24 @@ enableEmoji = true
     weight = 1
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Projects"
     url = "/project/"
-    weight = 2
+    weight = 4
+  [[menu.header]]
+    name = "Sobre"
+    title = "Sobre"
+    url = "/sobre/"
+    weight = 6
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 3
+    weight = 2
   [[menu.header]]
-    name = "Courses"
+    name = "Teaching"
     title = "Courses"
     url = "/course/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "Blog"
     title = "Blog"

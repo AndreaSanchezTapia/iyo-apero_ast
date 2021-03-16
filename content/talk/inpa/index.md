@@ -12,6 +12,7 @@ layout: single
 categories:
 - live
 - português
+- obscovid19br
 links:
 - icon: tv
   icon_pack: fa
