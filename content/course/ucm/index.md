@@ -1,5 +1,5 @@
 ---
-title: R Curriculum @ UC Merced
+title: R Curriculum Training at UC Merced
 author: Andrea Sánchez-Tapia
 date: '2020-10-20'
 categories:
@@ -10,9 +10,13 @@ excerpt: "This was a 4-week, 8-hour course based on the [R Ecology Lesson](https
 # layout options: single, single-sidebar
 layout: single
 links:
+- icon: home
+  icon_pack: fa
+  name: Website and slides
+  url: https://andreasancheztapia.github.io/UCMerced_R
 - icon: github
   icon_pack: fab
-  name: Code and Slides
-  url: https://github.com/AndreaSanchezTapia/UCMerced_R
+  name: Example repository
+  url: https://github.com/AndreaSanchezTapia/UCM_R
 ---
 
