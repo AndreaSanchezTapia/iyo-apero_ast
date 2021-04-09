@@ -1,5 +1,5 @@
 ---
-title: Talks and events
+title: Talks and teaching
 description: ""
 author: ""
 show_post_thumbnail: true
