@@ -104,15 +104,10 @@ enableEmoji = true
     url = "/sobre/"
     weight = 6
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
+    name = "Talks and teaching"
+    title = "Talks and teaching"
     url = "/talk/"
     weight = 2
-  [[menu.header]]
-    name = "Teaching"
-    title = "Courses"
-    url = "/course/"
-    weight = 3
   [[menu.header]]
     name = "Blog"
     title = "Blog"
