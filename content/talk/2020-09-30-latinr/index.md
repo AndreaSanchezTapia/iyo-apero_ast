@@ -1,12 +1,17 @@
 ---
 title: Escrevendo manuscritos acadêmicos usando Rmarkdown
+subtitle: Tutorial
+excerpt: "A gente apresentou este tutorial no congresso LatinR 2020"
 author: Andrea Sánchez-Tapia, Sara R. Mortara
 date: '2020-09-30'
+event: "LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo"
+event_url: https://latin-r.com/
 slug: latinR
 categories:
   - ¡liibre!
   - português
   - workshop
+show_post_date: true
 tags: []
 description: ~
 layout: standard
