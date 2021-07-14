@@ -1,7 +1,7 @@
 ---
 title: "Andrea Sánchez-Tapia"
 description: |
-  Soy bióloga, colombiana (ella), viví muchos años en Brasil y ahora vivo en Estados Unidos. Trabajo con informática de la biodiversidad, ecología de comunidades y feminismo de datos. Acá, diferentes categorías indican si el material está en [Español](/categories/español/), [Portugués](/categories/português/), o [Inglés](/categories/english/). 
+  Soy bióloga, colombiana (ella). Trabajo con informática de la biodiversidad, ecología de comunidades y feminismo de datos. Acá, diferentes categorías indican si el material está en [Español](/categories/español/), [Portugués](/categories/português/), o [Inglés](/categories/english/). 
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
