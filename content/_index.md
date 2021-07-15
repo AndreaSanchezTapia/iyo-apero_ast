@@ -1,7 +1,7 @@
 ---
-title: Dr. Andrea Sánchez-Tapia
+title: "Dr. Andrea Sánchez-Tapia"
 subtitle: "Biodiversity Informatics & Open and Responsible science"
-description: ""
+description: "description"
 images: ""
 image_left: false
 text_align_left: true
