@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Andrea Sánchez-Tapia"
+author: "Andrea Sánchez-Tapia, PhD"
 role: ""
 avatar: avatar.jpg
 avatar_shape: circle # circle, square, rounded

@@ -1,5 +1,5 @@
 ---
-title: "Andrea Sánchez-Tapia"
+title: "Andrea Sánchez-Tapia, PhD"
 description: |
   Soy bióloga, colombiana (ella). Trabajo con informática de la biodiversidad, ecología de comunidades y feminismo de datos. Acá, diferentes categorías indican si el material está en [Español](/categories/español/), [Portugués](/categories/português/), o [Inglés](/categories/english/). 
 show_header: true

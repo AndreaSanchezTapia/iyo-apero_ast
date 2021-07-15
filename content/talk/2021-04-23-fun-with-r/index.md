@@ -11,7 +11,7 @@ categories:
 - meetup
 - english
 tags: []
-excerpt: "In this meetup I presented sambaR, a small package to translate lyrics from the Genius database"
+excerpt: "In this meetup I presented sambaR, an R package and Shiny app to translate lyrics from the Genius database"
 layout: single
 links:
 - icon: tv
@@ -22,6 +22,9 @@ links:
   icon_pack: fa
   name: YouTube
   url: https://youtu.be/TKTC-tY87lg
-
+- icon: github
+  icon_pack: fab
+  name: Package
+  url: https://github.com/liibre/sambaR
 ---
 

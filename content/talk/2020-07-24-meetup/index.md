@@ -11,6 +11,7 @@ draft: false
 layout: single
 categories:
 - meetup
+- rladies+
 - português
 links:
 - icon: tv
