@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Andrea Sánchez-Tapia
+  Dr. Andrea Sánchez-Tapia
 ---
 
 <!--if show_title_as_headline: false it will display About-->
