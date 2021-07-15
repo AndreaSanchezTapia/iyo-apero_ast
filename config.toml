@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = ""
+  orgName = "¡liibre!"
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
@@ -80,7 +80,7 @@ enableEmoji = true
   # show/hide social icons in site header/footer/home page
   socialInHeader = false
   socialInFooter = true
-  socialInHome = true
+  socialInHome = false
 
 [taxonomies]
   category = "categories"
@@ -127,6 +127,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://twitter.com/SanchezTapiaA"
   [[params.social]]
-      icon      = "cv" # icon name without the 'fa-'
+      icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "http://lattes.cnpq.br/8900415459588165"
+      url       = "https://orcid.org/0000-0002-3521-4338"
