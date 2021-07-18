@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Dr. Andrea Sánchez-Tapia"
+author: "Andrea Sánchez-Tapia PhD"
 role: ""
 avatar: avatar.jpg
 avatar_shape: circle # circle, square, rounded
@@ -11,7 +11,7 @@ audio_link:
   url: audio.m4a
 link_list_label: "I belong to" # bookmarks, elsewhere, etc.
 link_list:
-- name: ¡liibre!
+- name: ¡liibre! laboratorio independiente de informática de la biodiversidad
   url: https://liibre.netlify.app/
 - name: Observatório COVID-19BR
   url: https://covid19br.github.io/

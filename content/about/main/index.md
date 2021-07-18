@@ -5,10 +5,10 @@ number_featured: 4 # pulling from mainSections in config.toml
 number_categories: 6 # set to zero to exclude
 show_intro: true
 intro: |
-  Projects and other things I have been working on lately
+  Some projects I participated in
 show_outro: true
-outro: |
-  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can buy [Alison Hill](https://www.twitter.com/APresHill) [a coffee](https://ko-fi.com/)!
+outro: 
+  
 ---
 
 ** index doesn't contain a body, just front matter above.

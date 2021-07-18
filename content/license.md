@@ -18,3 +18,5 @@ Blogophonic by Formspree is licensed under a [Creative Commons Attribution 4.0 I
 <center>
 <i class="fab fa-creative-commons fa-2x"></i><i class="fab fa-creative-commons-by fa-2x"></i>
 </center>
+
+<div>Coca leaves icon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
