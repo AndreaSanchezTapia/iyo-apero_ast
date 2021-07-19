@@ -18,8 +18,8 @@ links:
   icon_pack: fa
   name: Slides
   url: https://andreasancheztapia.github.io/R-Ladies_meetup_julho_2020/#1
-- icon: play
-  icon_pack: fa
+- icon: youtube
+  icon_pack: fab
   name: YouTube
   url: https://www.youtube.com/watch?v=NkahvnQizp0
 ---

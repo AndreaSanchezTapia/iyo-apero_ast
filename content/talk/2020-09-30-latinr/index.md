@@ -25,8 +25,8 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/liibre/Latin-R
-- icon: play
-  icon_pack: fas
-  name: Video
+- icon: youtube
+  icon_pack: fab
+  name: YouTube
   url: https://www.youtube.com/watch?v=Cxrc87AH2WM&t=128s
 ---

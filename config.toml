@@ -13,6 +13,7 @@ paginate = 5
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
+navallcaps = false
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -31,8 +32,8 @@ enableEmoji = true
   orgName = "¡liibre!"
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/coca_leaves.png"
-  logo = "/img/coca_leaves.png"
+  favicon = "/img/coca-leaves.png"
+  logo = "/img/coca-leaves.png"
   # select sections to highlight on about page
   mainSections = ["project", "blog", "talk"]
   show_social_links = true
@@ -80,7 +81,7 @@ enableEmoji = true
   # show/hide social icons in site header/footer/home page
   socialInHeader = false
   socialInFooter = true
-  socialInHome = false
+  socialInHome = true
 
 [taxonomies]
   category = "categories"
@@ -115,7 +116,19 @@ enableEmoji = true
     weight = 6
 
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/SanchezTapiaA"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=JI_EVu8AAAAJ&hl=en"
+  [[params.social]]
+      icon      = "researchgate" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://www.researchgate.net/profile/Andrea-Sanchez-Tapia"
+  [[params.social]]
+      icon      = "github-alt" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/andreasancheztapia"
   [[params.social]]
@@ -123,10 +136,11 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://gitlab.com/andreasancheztapia"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/SanchezTapiaA"
-  [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "fab"
+      icon_pack = "ai"
       url       = "https://orcid.org/0000-0002-3521-4338"
+  [[params.social]]
+      icon      = "lattes" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4214395Z3"
+  

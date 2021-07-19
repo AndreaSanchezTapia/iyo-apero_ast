@@ -21,9 +21,9 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/liibre/instituto_hub_demo
-- icon: play
-  icon_pack: fas
-  name: Video
+- icon: youtube
+  icon_pack: fab
+  name: YouTube
   url: https://www.youtube.com/watch?time_continue=2&v=sy0VNpOdhH8&feature=emb_logo
 
 ---

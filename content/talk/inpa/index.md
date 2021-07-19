@@ -18,8 +18,8 @@ links:
   icon_pack: fa
   name: Slides
   url: https://andreasancheztapia.github.io/inpa_ciencia_com_certeza/
-- icon: play
-  icon_pack: fa
+- icon: youtube
+  icon_pack: fab
   name: YouTube
   url: https://www.youtube.com/watch?v=HePaQkckHgQ&t=2466s
 ---

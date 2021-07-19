@@ -18,8 +18,8 @@ links:
   icon_pack: fa
   name: Slides
   url: https://andreasancheztapia.github.io/fun_with_R/#1
-- icon: play
-  icon_pack: fa
+- icon: youtube
+  icon_pack: fab
   name: YouTube
   url: https://youtu.be/TKTC-tY87lg
 - icon: github
