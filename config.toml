@@ -108,12 +108,12 @@ navallcaps = false
     name = "Sobre"
     title = "Sobre"
     url = "/sobre/"
-    weight = 6
+    weight = 5
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "Notebook"
+    title = "Notebook"
     url = "/blog/"
-    weight = 6
+    weight = 4
 
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
