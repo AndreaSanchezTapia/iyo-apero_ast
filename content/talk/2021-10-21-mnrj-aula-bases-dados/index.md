@@ -1,5 +1,5 @@
 ---
-title: Bases de dados sobre biodiversidade, conceitos e usos
+title: "Bases de dados sobre biodiversidade: conceitos e usos"
 author: Andrea Sánchez-Tapia
 date: '2021-10-21'
 categories:
