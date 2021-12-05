@@ -2,7 +2,7 @@
 title: 'Community assembly in a peripheral ecosystem of the Brazilian Atlantic forest'
 subtitle: "Restinga de Jurubatiba Biological Reserve"
 author: Andrea Sánchez-Tapia
-excerpt: "The role of subordinate species"
+excerpt: "A collaboration with Mário Garbin (UFES). The role of subordinate species in community assembly in extreme environments"
 date: 2013-01-01
 slug: 
 draft: false

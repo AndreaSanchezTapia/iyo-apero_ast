@@ -1,0 +1,16 @@
+---
+title: 'modleR: a modular workflow for species distribution modeling'
+author: Andrea Sánchez-Tapia
+date: '2016-03-31'
+slug: /project/modleR
+categories:
+  - project
+  - R
+  - open science
+subtitle: ''
+excerpt: ''
+draft: no
+---
+
+modleR, package, 
+https://model-r.github.io/modleR/

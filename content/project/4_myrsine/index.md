@@ -1,18 +1,19 @@
 ---
 title: 'Niche partitioning in Myrsine'
-subtitle: "Environmental and geographical space partitioning between core and peripheral Myrsine species (Primulaceae) of the Brazilian Atlantic Forest."
-excerpt: "Environmental and geographical space partitioning between core and peripheral Myrsine species (Primulaceae) of the Brazilian Atlantic Forest."
+subtitle: ""
+excerpt: "A collaboration with Tatiana Carrijo (UFES)"
 author: Andrea
 date: 2015-01-30
 slug: 
 draft: false
 categories:
   - project
-description: 
+description: A collaboration with UFES
 layout: standard
-show_title_as_headline: no
+show_title_as_headline: yes
 ---
 
+As part of a collaboration with the Botany Laboratory at Universidade Federal do Espírito Santo (UFES), we analyzed 
 
 Publications: 
 

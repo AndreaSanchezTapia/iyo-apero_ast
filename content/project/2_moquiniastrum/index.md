@@ -2,7 +2,7 @@
 title: 'Natural regeneration in repeatedly-burned pastures in the Brazilian Atlantic Forest'
 subtitle: "Poço das Antas Biological Reserve"
 author: Andrea Sánchez-Tapia
-excerpt: "Fire gradients in pasture-to-forest transitions"
+excerpt: "My MSc degree and a long-term collaboration with Jerônimo Sansevero (UFRRJ). Fire gradients in pasture-to-forest transitions"
 date: 2011-01-01
 slug: 
 draft: false
