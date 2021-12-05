@@ -25,6 +25,10 @@ links:
   icon_pack: fa
   name: Slides in English
   url: https://andreasancheztapia.github.io/FOSS4G_2021/español#1
+- icon: youtube
+  icon_pack: fab
+  name: YouTube
+  url: https://www.youtube.com/watch?time_continue=2&v=X4WqS4ybyuE&feature=emb_logo
 ---
 
-
+{{<youtube X4WqS4ybyuE>}}

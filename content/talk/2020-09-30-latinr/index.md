@@ -28,5 +28,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: YouTube
-  url: https://www.youtube.com/watch?v=Cxrc87AH2WM&t=128s
+  url: https://youtu.be/Cxrc87AH2WM
 ---
+
+{{<youtube Cxrc87AH2WM>}}

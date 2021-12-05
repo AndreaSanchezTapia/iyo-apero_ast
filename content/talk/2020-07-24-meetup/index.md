@@ -24,3 +24,6 @@ links:
   url: https://www.youtube.com/watch?v=NkahvnQizp0
 ---
 
+{{<youtube NkahvnQizp0>}}
+
+
