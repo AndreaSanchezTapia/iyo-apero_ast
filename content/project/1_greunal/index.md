@@ -15,7 +15,7 @@ show_title_as_headline: no
 ---
 
 
-This was the first offical research project I participated in. The ecological redtoration group at the National University of Colombia (UNAL) established several experiments for the ecological restoration of Higher-Andean Forests in strategic areas for the supply of water of Bogotá, Colombia. 
+This was the first offical research project I participated in. The ecological restoration group at the National University of Colombia (UNAL) established several experiments for the ecological restoration of Higher-Andean Forests in strategic areas for the supply of water of Bogotá, Colombia. 
  
 I was in charge of the experiments to control the invasive species _Ulex europaeus_ L., an agressive shrub that occupies abandoned pastures and promotes fires. 
 

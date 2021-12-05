@@ -96,7 +96,7 @@ navallcaps = false
     weight = 1
   [[menu.header]]
     name = "Projects and Publications"
-    title = "Some projects"
+    title = "Projects and Publications"
     url = "/project/"
     weight = 2
   [[menu.header]]
@@ -108,7 +108,7 @@ navallcaps = false
     name = "Sobre"
     title = "Sobre mí"
     url = "/sobre/"
-    weight = 3
+    weight = 4
 
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
