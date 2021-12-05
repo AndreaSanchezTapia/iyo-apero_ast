@@ -26,6 +26,7 @@ links:
   icon_pack: fab
   name: Pre-recorded class
   url: https://www.youtube.com/watch?v=DGL0Yi4COms
+show_post_time: false
 ---
 
 {{<youtube DGL0Yi4COms>}}
