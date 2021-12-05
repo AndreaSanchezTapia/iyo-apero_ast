@@ -24,7 +24,7 @@ links:
   url: https://github.com/liibre/aula_pratica_MNRJ_out_2021
 - icon: youtube
   icon_pack: fab
-  name: YouTube
+  name: Pre-recorded class
   url: https://www.youtube.com/watch?v=DGL0Yi4COms
 ---
 
