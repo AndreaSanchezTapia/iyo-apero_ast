@@ -2,7 +2,6 @@
 title: 'Ecological restoration in the Colombian Andes'
 subtitle: "Estudios Diagnósticos y Experiencias de Restauración Ecológica en el Bosque Alto Andino, El Caso de los Alrededores del Embalse de Chisacá, Usme, Bogotá, D.C"
 author: "Grupo de Restauración Ecológica - Universidad Nacional de Colombia"
-image: retamo.jpg
 excerpt: "My BSc degree: Restoration ecology, invasive species ecology and management"
 date: 2006-01-30
 slug: 
