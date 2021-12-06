@@ -23,22 +23,14 @@ links:
   icon_pack: fa
   name: Slides in Portuguese
   url: https://liibre.gitlab.io/latinR2021/index_PT#1
-- icon: github
-  icon_pack: fab
-  name: Presentation repo
-  url: https://gitlab.com/liibre/latinR2021/
-- icon: github
-  icon_pack: fab
-  name: Package repo
-  url: https://liibre.github.io/Rocc/
 - icon: youtube
   icon_pack: fab
   name: Pre-recorded talk
   url: https://youtu.be/y2Y15ri78Mk
-- icon: r-project
+- icon: youtube
   icon_pack: fab
-  name: RStudio demo
-  url: https://rstudio.cloud/project/3158789
+  name: Live session
+  url: https://youtu.be/Kgrjsk4XbYE?t=11711
 excerpt: "Apresentamos em Latin-R 2021 o pacote Rocc para obtenção e checagem de dados de biodiversidade"
 ---
 
@@ -46,4 +38,8 @@ O pacote Rocc se propõe auxiliar a geração de rotinas automatizadas de obten�
 
 O pacote Rocc possui três grandes eixos: obtenção de dados de ocorrência, checagem taxonômica e obtenção de dados geográficos. A partir dos três eixos do pacote de obtenção de dados de biodiversidade, checagem taxonômica e obtenção de dados geográficos, é possível criar fluxos de trabalho reprodutíveis totalmente baseados em dados abertos para obtenção e limpeza de dados de biodiversidade. Na página do pacote existem artigos para guiar o desenvolvimento de fluxos de trabalho (https://liibre.github.io/Rocc/articles/). Com isso, espera-se facilitar o acesso a diferentes bases e permitir autonomia às pessoas usuárias de criarem seus próprios fluxos de trabalho adaptados a sua necessidade. 
 
+Pre-recorded talk: 
 {{<youtube id=y2Y15ri78Mk title="Latin R 2021 prerecorded talk">}}
+
+Live session:
+{{<youtube id=Kgrjsk4XbYE?t=11711 title="Latin R 2021 live session">}}
