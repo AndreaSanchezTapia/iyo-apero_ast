@@ -4,7 +4,7 @@ subtitle: Tutorial
 excerpt: "A gente apresentou este tutorial no congresso LatinR 2020"
 author: Andrea Sánchez-Tapia, Sara R. Mortara
 date: '2020-09-30'
-event: "LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo"
+event: "LatinR 2020 - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo"
 event_url: https://latin-r.com/
 slug: latinR
 categories:
@@ -31,4 +31,4 @@ links:
   url: https://youtu.be/Cxrc87AH2WM
 ---
 
-{{<youtube Cxrc87AH2WM>}}
+{{<youtube id=Cxrc87AH2WM title="LatinR tutorial video">}}

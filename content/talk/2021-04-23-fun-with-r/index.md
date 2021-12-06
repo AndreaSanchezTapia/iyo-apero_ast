@@ -28,4 +28,4 @@ links:
   url: https://github.com/liibre/sambaR
 ---
 
-{{<youtube TKTC-tY87lg>}}
+{{<youtube id=TKTC-tY87lg title="Fun with R meetup session">}}

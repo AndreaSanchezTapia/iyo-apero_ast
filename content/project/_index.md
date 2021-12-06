@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: "Some projects I participated in"
+description: "This section includes projects, collaborations, and publications in which I have participated"
 author: ""
 show_post_thumbnail: true
 show_author_byline: false
