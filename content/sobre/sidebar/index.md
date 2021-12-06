@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Andrea Sánchez-Tapia, PhD"
+author: "Andrea Sánchez-Tapia PhD"
 role: ""
 avatar: avatar.jpg
 avatar_shape: circle # circle, square, rounded
@@ -9,7 +9,7 @@ show_audio_link: false
 audio_link: 
 - name: How to say my name
   url: audio.m4a
-link_list_label: "I belong to" # bookmarks, elsewhere, etc.
+link_list_label: "" # bookmarks, elsewhere, etc.
 link_list:
 - name: ¡liibre!
   url: https://liibre.netlify.app/
