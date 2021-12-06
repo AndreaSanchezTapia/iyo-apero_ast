@@ -1,7 +1,7 @@
 ---
 title: "Andrea Sánchez-Tapia PhD"
 subtitle: "Biodiversity Informatics & Open and Responsible Science"
-description: "I am a biologist turned biodiversity data scientist and Open Science lover"
+description: "I am a biologist with a background in Plant Community Ecology, Biodiversity Informatics, and Open and Responsible Science"
 images:
 - img/avatar.jpg
 image_left: false
