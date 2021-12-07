@@ -9,11 +9,14 @@ categories:
   - course
   - português
   - ¡liibre!
+tags:
+- Open science
+- Community building
 show_post_date: true
 links:
 - icon: github
   icon_pack: fab
-  name: code
+  name: Course materials (pt)
   url: https://github.com/liibre/curso
 ---
 

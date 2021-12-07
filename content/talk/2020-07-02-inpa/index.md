@@ -13,14 +13,17 @@ categories:
 - live
 - português
 - obscovid19br
+tags:
+- Community building
+- Open science
 links:
 - icon: tv
   icon_pack: fa
-  name: Slides
+  name: Slides (pt-br)
   url: https://andreasancheztapia.github.io/inpa_ciencia_com_certeza/
 - icon: youtube
   icon_pack: fab
-  name: YouTube
+  name: Live recording (PT-BR)
   url: https://youtu.be/HePaQkckHgQ
 ---
 

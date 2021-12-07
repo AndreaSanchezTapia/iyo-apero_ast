@@ -8,6 +8,8 @@ slug:
 draft: false
 categories:
   - project
+tags:
+- Plant ecology
 description: 
 layout: standard
 show_title_as_headline: no

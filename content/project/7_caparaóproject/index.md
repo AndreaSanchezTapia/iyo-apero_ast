@@ -3,6 +3,8 @@ title: 'Community assembly in Brazilian high-altitude grasslands'
 author: Andrea
 categories:
   - project
+tags:
+  - Plant ecology
 date: 2015-01-30
 description: abc
 draft: false

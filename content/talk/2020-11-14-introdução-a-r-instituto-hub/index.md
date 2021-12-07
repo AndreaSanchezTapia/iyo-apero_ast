@@ -9,13 +9,16 @@ categories:
   - ¡liibre!
   - português
   - workshop
+tags:
+- Community building
+- Open science
 show_post_date: true
 layout: standard
 show_title_as_headline: yes
 links:
 - icon: tv
   icon_pack: fa
-  name: Slides
+  name: Slides (PT)
   url: https://liibre.github.io/instituto_hub/#1
 - icon: github
   icon_pack: fab
@@ -23,7 +26,7 @@ links:
   url: https://github.com/liibre/instituto_hub_demo
 - icon: youtube
   icon_pack: fab
-  name: YouTube
+  name: Live recording (pt)
   url: https://youtu.be/sy0VNpOdhH8
 
 ---

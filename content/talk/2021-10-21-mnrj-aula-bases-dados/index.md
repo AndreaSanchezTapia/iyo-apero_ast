@@ -7,7 +7,7 @@ categories:
   - português
   - R
 tags:
-  - biodiversity informatics
+  - Biodiversity informatics
 subtitle: ''
 excerpt: 'Nesta aula teórica apresentei conceitos básicos de manipulação de bases de dados de biodiversidade usando R'
 location: Online
@@ -16,7 +16,7 @@ layout: standard
 links:
 - icon: tv
   icon_pack: fa
-  name: Slides
+  name: Slides (pt)
   url: https://liibre.gitlab.io/aula_mnrj/#1
 - icon: github
   icon_pack: fab
@@ -24,11 +24,11 @@ links:
   url: https://github.com/liibre/aula_pratica_MNRJ_out_2021
 - icon: youtube
   icon_pack: fab
-  name: Pre-recorded class
+  name: Pre-recorded class (pt)
   url: https://www.youtube.com/watch?v=DGL0Yi4COms
 show_post_time: false
 ---
 
 {{<youtube DGL0Yi4COms>}}
 
-
+A aula veio acompanhada de um componente prático, ministrado ao vivo, mostrando o uso de R para a obtenção e manipulação básica de dados de biodiversidade.

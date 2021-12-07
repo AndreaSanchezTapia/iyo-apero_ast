@@ -7,7 +7,9 @@ categories:
   - project
   - R
   - open science
-subtitle: ''
+  - modleR
+tags:
+  - Biodiversity informatics
 excerpt: 'A modular workflow for ecological niche modeling in R, led and maintained by me'
 draft: no
 ---

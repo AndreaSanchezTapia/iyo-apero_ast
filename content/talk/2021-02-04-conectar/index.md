@@ -17,14 +17,17 @@ categories:
 - talk
 - español
 - obscovid19br
+tags: 
+- Community building
+- Open science
 links:
 - icon: tv
   icon_pack: fa
-  name: Slides
+  name: Slides (es)
   url: https://andreasancheztapia.gitlab.io/conectar_keynote/
 - icon: github
-  icon_pack: fa
-  name: Abstract
+  icon_pack: fab
+  name: Abstract (es)
   url: https://github.com/conectar2021/Contenido2021#observatorio-covid19-br---andrea-s%C3%A1nchez-tapia
 ---
 

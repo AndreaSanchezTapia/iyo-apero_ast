@@ -13,14 +13,19 @@ categories:
 - meetup
 - rladies+
 - português
+- modleR
+- R
+tags:
+- Community building
+- Open science
 links:
 - icon: tv
   icon_pack: fa
-  name: Slides
+  name: Slides (pt-br)
   url: https://andreasancheztapia.github.io/R-Ladies_meetup_julho_2020/#1
 - icon: youtube
   icon_pack: fab
-  name: YouTube
+  name: Live recording (pt-br)
   url: https://www.youtube.com/watch?v=NkahvnQizp0
 ---
 

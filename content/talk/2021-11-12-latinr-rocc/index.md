@@ -13,23 +13,24 @@ categories:
   - português
   - español
 tags:
-  - biodiversity informatics
+  - Biodiversity informatics
+  - Open science
 links:
 - icon: tv
   icon_pack: fa
-  name: Slides in Spanish
+  name: Slides (es)
   url: https://liibre.gitlab.io/latinR2021/
 - icon: tv
   icon_pack: fa
-  name: Slides in Portuguese
+  name: Slides (pt)
   url: https://liibre.gitlab.io/latinR2021/index_PT#1
 - icon: youtube
   icon_pack: fab
-  name: Pre-recorded talk
+  name: Pre-recorded talk (pt)
   url: https://youtu.be/y2Y15ri78Mk
 - icon: youtube
   icon_pack: fab
-  name: Live session
+  name: Live session (es)
   url: https://youtu.be/Kgrjsk4XbYE?t=11711
 excerpt: "Apresentamos em Latin-R 2021 o pacote Rocc para obtenção e checagem de dados de biodiversidade"
 ---

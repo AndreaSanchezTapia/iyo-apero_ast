@@ -8,6 +8,9 @@ slug:
 draft: false
 categories:
   - project
+tags:
+  - Plant ecology
+  - Biodiversity informatics
 description: A collaboration with UFES
 layout: standard
 show_title_as_headline: yes

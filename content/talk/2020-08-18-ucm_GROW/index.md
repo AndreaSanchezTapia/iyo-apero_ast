@@ -6,13 +6,14 @@ date: '2020-08-18'
 categories:
   - workshop
   - english
+  - R
 show_post_date: true
 links:
 - icon: home
-  name: Website
+  name: Website (EN)
   url: https://ucmerced.github.io/2020-08-17-ucmerced/
 - icon: github
   icon_pack: fab
-  name: Code and Slides
+  name: Code and Slides (EN)
   url: https://github.com/AndreaSanchezTapia/GROW_Merced_2020
 ---
