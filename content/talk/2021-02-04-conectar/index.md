@@ -10,6 +10,7 @@ event_url: https://conectar2021.github.io/ConectaR2021/
 author: "Andrea"
 location: "San José, Costa Rica"
 draft: false
+slug: conectar
 # layout options: single, single-sidebar
 layout: single
 categories:
