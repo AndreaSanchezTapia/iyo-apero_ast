@@ -9,13 +9,13 @@ tags:
 date: 2020-01-05
 description: 
 draft: false
-excerpt: 
+excerpt: I was part of the Observatório COVID-19 BR between May 2021 and July 2021. This was a scientific citizenship, volunteer-based group that aimed to bring awareness about the public health measures around COVID-19 in Brazil.
 layout: standard
 show_title_as_headline: no
 ---
   
   
-I was part of the [Observatório COVID-19 BR](https://covid19br.github.io) between May 2021 and July 2021. This was a scientific citizenship, volunteer-based group that aimed to bring awareness about the public health measures around Covid-10 in Brazil.
+I was part of the [Observatório COVID-19 BR](https://covid19br.github.io) between May 2021 and July 2021. This was a scientific citizenship, volunteer-based group that aimed to bring awareness about the public health measures around COVID-19 in Brazil.
 
 I was part of the Observatorio's Data team. Some of my tasks were: 
 
