@@ -26,6 +26,8 @@ remotes::install_github("LimaRAF/plantR")
 ````
 
  
+__Publications:__
+
 de Lima, R.A.F., Sánchez-Tapia, A., Mortara, S.R., ter Steege, H., de Siqueira, M.F., n.d. plantR: An R package and workflow for managing species records from biological collections. Methods in Ecology and Evolution n/a. https://doi.org/10.1111/2041-210X.13779
 
 

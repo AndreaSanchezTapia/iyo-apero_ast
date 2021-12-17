@@ -16,9 +16,11 @@ layout: standard
 show_title_as_headline: yes
 ---
 
-As part of a collaboration with the Botany Laboratory at Universidade Federal do Espírito Santo (UFES), we analyzed 
+We analyzed the relationship between the occupation of the environmental space (the ecological niche breadth), the geographic space (the potential distribution), and the ecosystems occupied by thirteen species of the genus _Myrsine_ in the Brazilian Atlantic Forest. 
 
-Publications: 
+This work was a collaboration with the Botany Laboratory at Universidade Federal do Espírito Santo (UFES).
 
-Sánchez-Tapia, A. et al. (2018) Environmental and geographic space partitioning between core and peripheral Myrsine (Primulaceae) species of the Brazilian Atlantic Forest. Bot J Linn Soc DOI: 10.1093/botlinnean/boy034
+__Publications:__ 
+
+Sánchez-Tapia, A. et al. (2018) Environmental and geographic space partitioning between core and peripheral _Myrsine_ (Primulaceae) species of the Brazilian Atlantic Forest. Bot J Linn Soc DOI: [10.1093/botlinnean/boy034](https://academic.oup.com/botlinnean/article/187/4/633/5049936)
  
