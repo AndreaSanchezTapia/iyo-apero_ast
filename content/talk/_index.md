@@ -1,5 +1,5 @@
 ---
-title: Talks and teaching
+title: Talks and Teaching
 description: "Recent courses, workshops, and talks. Due to COVID-19, most are online and recorded. I try to indicate the language the material is in
 En = English, Pt = Português, Es = Español"
 author: ""

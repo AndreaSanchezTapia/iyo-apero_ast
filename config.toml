@@ -100,8 +100,8 @@ navallcaps = false
     url = "/project/"
     weight = 2
   [[menu.header]]
-    name = "Talks and teaching"
-    title = "Talks and teaching"
+    name = "Talks and Teaching"
+    title = "Talks and Teaching"
     url = "/talk/"
     weight = 3
   [[menu.header]]
