@@ -6,8 +6,6 @@ categories:
   - course
   - english
   - R
-tags:
-- Community building
 show_post_date: true
 excerpt: "This was a 4-week, 8-hour course based on the R Ecology Lesson from The Carpentries. Part of the UC Merced Library workshop series."
 # layout options: single, single-sidebar

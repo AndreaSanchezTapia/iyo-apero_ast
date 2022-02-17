@@ -10,12 +10,11 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
+- community building
 - live
-- português
 - obscovid19br
-tags:
-- Community building
-- Open science
+- open science
+- português
 links:
 - icon: tv
   icon_pack: fa

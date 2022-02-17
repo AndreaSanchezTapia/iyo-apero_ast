@@ -6,12 +6,11 @@ date: '2020-11-14'
 event: "Raspagem e Análise de Dados Públicos - Instituto HUB"
 evant_url: https://medium.com/institutohub/oficina-r-raspagem-de-dados-p%C3%BAblicos-4-%C2%BA-edi%C3%A7%C3%A3o-2020-58d12d24b383
 categories:
+  - community building
   - ¡liibre!
+  - open science
   - português
   - workshop
-tags:
-- Community building
-- Open science
 show_post_date: true
 layout: standard
 show_title_as_headline: yes

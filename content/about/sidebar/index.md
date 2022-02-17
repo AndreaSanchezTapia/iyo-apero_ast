@@ -12,11 +12,13 @@ audio_link:
 link_list_label: "Expertise" # bookmarks, elsewhere, etc.
 link_list:
 - name: Biodiversity informatics
-  url: /tags/biodiversity-informatics
+  url: /categories/biodiversity-informatics
 - name: Plant ecology
-  url: /tags/plant-ecology
+  url: /categories/plant-ecology
 - name: Open science
-  url: /tags/open-science
+  url: /categories/open-science
+- name: Community building
+  url: /categories/community-building
 ---
 
 ** index doesn't contain a body, just front matter above.

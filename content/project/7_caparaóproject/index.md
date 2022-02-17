@@ -2,9 +2,8 @@
 title: 'Community assembly in Brazilian high-altitude grasslands'
 author: Andrea
 categories:
+  - plant ecology
   - project
-tags:
-  - Plant ecology
 date: 2015-01-30
 description: abc
 draft: false
@@ -15,5 +14,3 @@ slug:
 subtitle: "Edital Universal 2014/2 - CNPq"
 ---
 
- 
-post sobre el proyecto

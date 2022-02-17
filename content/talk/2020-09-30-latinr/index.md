@@ -7,10 +7,9 @@ event_url: https://latin-r.com/
 slug: latinR
 categories:
   - ¡liibre!
+  - open science
   - português
   - workshop
-tags:
-- Open science
 show_post_date: true
 tags:
 - Community building

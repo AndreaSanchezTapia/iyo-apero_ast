@@ -7,14 +7,13 @@ slug: latinR_Rocc
 event: "LatinR 2021 - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo"
 event_url: https://latin-r.com/
 categories:
-  - ¡liibre!
-  - talk
-  - R
-  - português
+  - biodiversity informatics
   - español
-tags:
-  - Biodiversity informatics
-  - Open science
+  - ¡liibre!
+  - open science
+  - português
+  - R
+  - talk
 links:
 - icon: tv
   icon_pack: fa

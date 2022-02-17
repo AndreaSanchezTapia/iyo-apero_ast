@@ -10,14 +10,13 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
+- community building
 - meetup
-- rladies+
-- português
 - modleR
+- open science
+- português
 - R
-tags:
-- Community building
-- Open science
+- rladies+
 links:
 - icon: tv
   icon_pack: fa

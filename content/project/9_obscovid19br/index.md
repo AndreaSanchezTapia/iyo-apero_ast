@@ -2,10 +2,9 @@
 title: 'Observatório COVID-19 Br'
 author: Andrea
 categories:
-  - outreach
+  - community building
   - obscovid19br
-tags:  
-  - Open science
+  - open science
 date: 2020-01-05
 description: 
 draft: false

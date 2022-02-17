@@ -5,13 +5,11 @@ date: 2020-02-10
 slug: 2020_curso_enbt
 tags:
 categories:
-  - jbrj
   - course
-  - português
+  - jbrj
   - ¡liibre!
-tags:
-- Open science
-- Community building
+  - open science
+  - português
 show_post_date: true
 links:
 - icon: github

@@ -4,14 +4,13 @@ subtitle: ''
 author: Andrea Sánchez-Tapia
 date: '2021-10-01'
 categories:
-  - ¡liibre!
+  - biodiversity informatics
   - español
+  - ¡liibre!
+  - modleR
+  - open science
   - R
   - talk
-  - modleR
-tags: 
-- Open science
-- Biodiversity informatics
 excerpt: 'En esta charla presenté modleR como un ejemplo de creación de flujos reproducibles de trabajo en modelamiento de nicho ecológico'
 location: FOSS4G 2021
 draft: no

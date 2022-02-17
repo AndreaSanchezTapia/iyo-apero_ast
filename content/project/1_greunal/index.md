@@ -7,9 +7,8 @@ date: 2006-01-30
 slug: 
 draft: false
 categories:
+  - plant ecology
   - project
-tags:  
-  - Plant ecology
 description: 
 layout: post
 show_title_as_headline: no

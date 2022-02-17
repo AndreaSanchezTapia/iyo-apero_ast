@@ -4,11 +4,11 @@ author: Andrea Sánchez-Tapia
 date: '2016-03-31'
 slug: /project/modleR
 categories:
+  - biodiversity informatics
+  - open science
   - project
   - R
-tags:
-  - Biodiversity informatics
-  - Open science
+  - R packages
 subtitle: ''
 excerpt: 'A modular workflow for ecological niche modeling in R, led and maintained by me'
 draft: no

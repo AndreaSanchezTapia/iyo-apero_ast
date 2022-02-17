@@ -6,12 +6,11 @@ date: '2021-04-23'
 show_post_time: false
 slug: []
 categories:
+- community building
+- english
+- meetup
 - R
 - rladies+
-- meetup
-- english
-tags:
-- Community building
 excerpt: "In this meetup I presented sambaR, an R package and Shiny app to translate lyrics from the Genius database"
 layout: single
 links:

@@ -7,10 +7,9 @@ date: 2015-01-30
 slug: 
 draft: false
 categories:
+  - biodiversity informatics
+  - plant ecology
   - project
-tags:
-  - Plant ecology
-  - Biodiversity informatics
 description: A collaboration with UFES
 layout: standard
 show_title_as_headline: yes

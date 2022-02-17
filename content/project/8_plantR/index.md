@@ -6,11 +6,11 @@ date: 2021-12-03
 slug: 
 draft: false
 categories:
+  - biodiversity informatics
+  - open science
   - project
   - R
   - R packages
-tags:  
-  - Biodiversity informatics
 description: 
 show_title_as_headline: no
 ---
