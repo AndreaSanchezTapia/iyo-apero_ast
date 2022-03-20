@@ -111,6 +111,10 @@ navallcaps = false
     weight = 4
 
   [[params.social]]
+      icon      = "calendar-alt" # icon name without the 'fa-'
+      icon_pack = "fa"
+      url       = "https://calendly.com/andreasancheztapia"
+  [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/SanchezTapiaA"
