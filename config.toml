@@ -115,6 +115,10 @@ navallcaps = false
       icon_pack = "fa"
       url       = "https://calendly.com/andreasancheztapia"
   [[params.social]]
+      icon      = "mastodon" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://mastodon.lol/@ludovia"
+  [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/SanchezTapiaA"
