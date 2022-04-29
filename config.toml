@@ -40,7 +40,7 @@ navallcaps = false
   navallcaps = false
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/sidebar-listing.jpg"
+  sharing_image = "/img/avatar.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "SanchezTapiaA"
 
