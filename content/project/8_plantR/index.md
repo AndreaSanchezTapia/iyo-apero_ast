@@ -13,9 +13,14 @@ categories:
   - R packages
 description: 
 show_title_as_headline: no
+links:
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    url: https://github.com/LimaRAF/plantR
 ---
 
-plantR provides tools for downloading, processing, cleaning, validating, summarizing and exporting records of plant species occurrences from biological collections. 
+plantR includes tools to (a) download records from different data repositories, (b) standardise typical fields associated with species records, (c) validate the locality, geographical coordinates, taxonomic nomenclature and species identifications, including the retrieval of duplicates across collections, and (d) summarise and export records, including the construction of species lists with vouchers.
 
 GitHub repo:
 https://github.com/LimaRAF/plantR
@@ -28,7 +33,7 @@ remotes::install_github("LimaRAF/plantR")
  
 __Publications:__
 
-de Lima, R.A.F., Sánchez-Tapia, A., Mortara, S.R., ter Steege, H., de Siqueira, M.F., n.d. plantR: An R package and workflow for managing species records from biological collections. Methods in Ecology and Evolution n/a. https://doi.org/10.1111/2041-210X.13779
+de Lima, R.A.F., Sánchez-Tapia, A., Mortara, S.R., ter Steege, H., de Siqueira, M.F., 2021. plantR: An R package and workflow for managing species records from biological collections. Methods in Ecology and Evolution n/a. https://doi.org/10.1111/2041-210X.13779
 
 
 

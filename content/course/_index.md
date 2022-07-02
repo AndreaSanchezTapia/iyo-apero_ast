@@ -1,6 +1,7 @@
 ---
 title: Courses and workshops
-description: ""
+description: "Courses and workshops. During COVID-19, most were online and recorded. I indicate the language of the materials
+En = English, Pt = Português, Es = Español"
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
@@ -11,7 +12,7 @@ layout: list # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Courses
+  title: Courses and workshops
   description: ""
   author: "Andrea Sánchez-Tapia"
   text_link_label: Subscribe via RSS

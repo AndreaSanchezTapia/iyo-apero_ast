@@ -7,7 +7,7 @@ copyright = '© ¡liibre! 2021 - Coca leaves icon made by <a href="https://www.f
 googleAnalytics = ""
 disqusShortname = "andreasancheztapia"
 metaDataFormat = "yaml"
-footnoteReturnLinkContents = "&#8617;" # ↩
+footnoteReturnLinkContents = "&#8617;" # 
 # set deliberately low for testing choose your prefered number based on the blog layout you've chosen
 paginate = 5
 preserveTaxonomyNames = true
@@ -35,7 +35,7 @@ navallcaps = false
   favicon = "/img/coca-leaves.png"
   logo = "/img/coca-leaves.png"
   # select sections to highlight on about page
-  mainSections = ["project", "blog", "talk"]
+  mainSections = ["project", "talk", "course"]
   show_social_links = true
   navallcaps = false
   # Default image for social sharing and search engines.
@@ -95,21 +95,25 @@ navallcaps = false
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Projects and Publications"
-    title = "Projects and Publications"
+    name = "Projects"
+    title = "Projects"
     url = "/project/"
     weight = 2
   [[menu.header]]
-    name = "Talks and Teaching"
-    title = "Talks and Teaching"
+    name = "Talks"
+    title = "Talks"
     url = "/talk/"
     weight = 3
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/course/"
+    weight = 4
   [[menu.header]]
     name = "Sobre"
     title = "Sobre mí"
     url = "/sobre/"
-    weight = 4
-
+    weight = 6
   [[params.social]]
       icon      = "calendar-alt" # icon name without the 'fa-'
       icon_pack = "fa"

@@ -1,7 +1,6 @@
 ---
-title: Talks and Teaching
-description: "Recent courses, workshops, and talks. Due to COVID-19, most are online and recorded. I try to indicate the language the material is in
-En = English, Pt = Português, Es = Español"
+title: Talks
+description: "Recent talks. During COVID-19, most were online and recorded. I indicate the language of the materials En = English, Pt = Português, Es = Español"
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
@@ -13,7 +12,7 @@ layout: list # list, list-sidebar
 # for list-sidebar layout
 sidebar: 
   title: Talks
-  description: What is a talk during a pandemic anyway?
+  description: 
   author: ""
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
