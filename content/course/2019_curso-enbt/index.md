@@ -3,6 +3,7 @@ title: Projetos de Análise de Dados usando R
 author: Andrea Sánchez-Tapia, Sara R. Mortara, Diogo S.B. Rocha
 date: 2019-07-15
 slug: 2019_curso_enbt
+layout: single
 tags:
 categories:
   - jbrj

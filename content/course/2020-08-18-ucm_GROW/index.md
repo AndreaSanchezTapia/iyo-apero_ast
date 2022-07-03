@@ -9,6 +9,7 @@ categories:
   - R
   - workshop
 show_post_date: true
+layout: single
 links:
 - icon: home
   name: Website (EN)

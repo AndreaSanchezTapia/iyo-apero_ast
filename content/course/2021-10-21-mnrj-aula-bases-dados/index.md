@@ -8,11 +8,11 @@ categories:
   - R
 tags:
   - Biodiversity informatics
-subtitle: ''
+subtitle: 'Coleções biológicas - Museu Nacional - UFRJ'
 excerpt: 'Nesta aula teórica apresentei conceitos básicos de manipulação de bases de dados de biodiversidade usando R'
 location: Online
 draft: no
-layout: standard
+layout: single
 links:
 - icon: tv
   icon_pack: fa
@@ -31,4 +31,4 @@ show_post_time: false
 
 {{<youtube DGL0Yi4COms>}}
 
-A aula veio acompanhada de um componente prático, ministrado ao vivo, mostrando o uso de R para a obtenção e manipulação básica de dados de biodiversidade.
+Esta aula foi ministrada para o curso sobre Coleções biológicas no Museu Nacional - UFRJ, coordenado pelo professor Marcelo R. Britto. A aula veio acompanhada de um componente prático, ministrado ao vivo, mostrando o uso de R para a obtenção e manipulação básica de dados de biodiversidade.
