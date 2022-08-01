@@ -110,6 +110,11 @@ navallcaps = false
     url = "/course/"
     weight = 4
   [[menu.header]]
+    name = "Community"
+    title = "Community"
+    url = "/community/"
+    weight = 5
+  [[menu.header]]
     name = "Sobre"
     title = "Sobre mí"
     url = "/sobre/"
