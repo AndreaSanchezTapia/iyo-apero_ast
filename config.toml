@@ -126,11 +126,7 @@ navallcaps = false
   [[params.social]]
       icon      = "mastodon" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://mastodon.lol/@ludovia"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/SanchezTapiaA"
+      url       = "https://floss.social/@Andrea"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
